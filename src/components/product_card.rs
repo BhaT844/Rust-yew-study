@@ -40,8 +40,8 @@ impl Component for ProductCard {
                     <img class="product_card_image" src={&self.props.product.image}/>
                     <div class="product_card_name">{&self.props.product.name}</div>
                     <div class="product_card_price">{&self.props.product.price}{"￦"}</div>
-                    <AtcButton product=self.props.product.clone() on_add_to_cart=self.props.on_add_to_cart.clone() />
                 </Anchor>
+                <AtcButton product=self.props.product.clone() on_add_to_cart=self.props.on_add_to_cart.clone() />
             </div>
         }
     }
