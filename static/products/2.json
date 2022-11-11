@@ -1,0 +1,7 @@
+{
+    "id": 2,
+    "name": "바나나",
+    "description": "이 바나나는 너무 길어 기차로 착각할 수 있습니다!",
+    "image": "/products/banana.png",
+    "price": 5000
+}

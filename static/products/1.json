@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "name": "사과",
+    "description": "사과는 당신을 강력하게 만들어줍니다!",
+    "image": "/products/apple.png",
+    "price": 2300
+}
