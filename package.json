@@ -1,7 +1,0 @@
-{
-  "scripts": {
-    "build": "cargo make build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  }
-}
