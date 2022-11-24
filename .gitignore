@@ -1,2 +1,6 @@
+/src
+/static
 /target
 /Cargo.lock
+/Cargo.toml
+/Makefile.toml
