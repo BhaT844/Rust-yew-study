@@ -3,21 +3,21 @@
         "id": 1,
         "name": "사과",
         "description": "사과는 당신을 강력하게 만들어줍니다!",
-        "image": "/products/apple.png",
+        "image": "./products/apple.png",
         "price": 2300
     },
     {
         "id": 2,
         "name": "바나나",
-        "description": "이 바나나는 너무 길어 기차로 착각할 수 있습니다!",
-        "image": "/products/banana.png",
+        "description": "0코스트 +1/+1",
+        "image": "./products/banana.png",
         "price": 5000
     },
     {
         "id": 3,
         "name": "요루",
         "description": "여긴 차원구조가 약하군",
-        "image": "/products/yoru.jpg",
+        "image": "./products/yoru.jpg",
         "price": 4700
     }
 ]
